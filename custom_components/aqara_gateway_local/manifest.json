@@ -1,0 +1,14 @@
+{
+  "domain": "aqara_gateway_local",
+  "name": "Aqara Gateway Local",
+  "version": "0.1.0",
+  "documentation": "https://github.com/lieut-gkhn/ha-aqara-gateway-local",
+  "issue_tracker": "https://github.com/lieut-gkhn/ha-aqara-gateway-local/issues",
+  "config_flow": true,
+  "iot_class": "local_push",
+  "requirements": [],
+  "codeowners": [
+    "@lieut-gkhn"
+  ],
+  "loggers": []
+}

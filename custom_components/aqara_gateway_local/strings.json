@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Aqara Gateway Local",
+        "description": "Configure your Aqara Gateway.",
+        "data": {
+          "name": "Name",
+          "host": "IP Address",
+          "port": "Telnet Port"
+        }
+      }
+    }
+  }
+}
